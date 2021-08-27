@@ -9,6 +9,9 @@ body{
     background: wheat;
 }
 
+.tradebg{
+    background-color: rgb(44, 44, 44);
+}
 .logo{
 color: yellow;
 font-size: 35px;
